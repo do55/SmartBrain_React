@@ -1,0 +1,11 @@
+button {
+  transition: all 1s;
+  background: linear-gradient(89deg, #ff5edf 0%, #04c8de 100%);
+  cursor: pointer;
+  color: #ffffff;
+  letter-spacing: 5px;
+}
+
+button:hover {
+  transform: scale(1.2);
+}
